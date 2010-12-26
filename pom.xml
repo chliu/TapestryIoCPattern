@@ -9,6 +9,7 @@
     <version>1.0</version>
 
     <dependencies>
+
         <dependency>
             <groupId>org.apache.tapestry</groupId>
             <artifactId>tapestry-ioc</artifactId>
